@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Yash Pandey]
+# Hi there! 👋 I'm Yash Pandey
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to build and learn new things every day.
 
